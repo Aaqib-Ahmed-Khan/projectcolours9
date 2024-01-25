@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(59, 131, 65);
+}
+.container1{
+display: flex;
+margin-top: 30px;
+margin-left: 80px;
+justify-content: stretch;
+height: 100%;
+justify-content: space-between;
+margin-right: 80px;
+font-size: x-large;
+a{
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+   
+  }
+ 
+
+
+
+
+justify-content: space-between;
+}
+.container2{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 80px;
+    justify-content: stretch;
+    height: 100%;
+    justify-content: space-between;
+    margin-right: 80px;
+    font-size: x-large;
+    
+    a{
+        color: rgb(22, 110, 6);
+        background-color: transparent;
+        text-decoration: none;
+       
+      }
+     
+   
+    
+}
+.box1{
+background-color: rgb(218, 150, 66);
+border: 5px solid black;
+margin: 15px;
+width: 350px;
+height: 200px;
+
+align-items: flex-end;
+display: flex;
+padding: 20px;
+font-weight:bolder;
+
+}
+.box2{
+    background-color: rgb(208, 169, 120);
+    border: 5px solid black;
+    margin: 15px;
+    width: 350px;
+    height: 200px;
+   
+    align-items: flex-end;
+    display: flex;
+    padding: 20px;
+    font-weight:bolder;
+  
+    }
+
+    .box3{
+        background-color: rgb(39, 98, 132);
+        border: 5px solid black;
+        margin: 15px;
+        width: 350px;
+        height: 200px;
+       
+        align-items: flex-end;
+        display: flex;
+        padding: 20px;
+        font-weight:bolder;
+        }
+
+        .box4{
+            background-color: rgb(226, 112, 176);
+            border: 5px solid black;
+            margin: 15px;
+            width: 350px;
+            height: 200px;
+            padding: 20px;
+            align-items: flex-end;
+            display: flex;
+           
+            font-weight:bolder;
+            }
+
+            .box5{
+                background-color: rgb(112, 184, 84);
+                border: 5px solid black;
+                margin: 15px;
+                width: 350px;
+                height: 200px;
+                padding: 20px;
+                align-items: flex-end;
+                display: flex;
+               
+                font-weight:bolder;
+                }
+
+                .box6{
+                    background-color: rgb(234, 143, 98);
+                    border: 5px solid black;
+                    margin: 15px;
+                    width: 350px;
+                    height: 200px;
+                    padding: 20px;
+                    align-items: flex-end;
+                    display: flex;
+                   
+                    font-weight:bolder;
+                 
+                    }
